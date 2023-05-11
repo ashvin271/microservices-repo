@@ -1,0 +1,7 @@
+com\microservice\notification\NotificationApplication.class
+com\microservice\notification\repository\NotificationRepository.class
+com\microservice\notification\service\NotificationService.class
+com\microservice\notification\controller\NotificationController.class
+com\microservice\notification\model\Notification.class
+com\microservice\notification\serviceimpl\NotificationServiceimpl.class
+com\microservice\notification\model\Notification$NotificationBuilder.class

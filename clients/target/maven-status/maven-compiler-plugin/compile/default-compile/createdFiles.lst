@@ -1,0 +1,4 @@
+com\microservice\app\clients\comman\bean\NotificationRequest.class
+com\microservice\app\clients\notification\NotificationClient.class
+com\microservice\app\clients\comman\bean\NotificationRequest$NotificationRequestBuilder.class
+com\microservice\app\clients\fraud\FraudClient.class
